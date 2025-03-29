@@ -1,16 +1,9 @@
-# app_cotacoes
+# Projeto de Cotações - Desenvolvimento para Dispositivos Móveis
+Este é um aplicativo desenvolvido como parte da disciplina Desenvolvimento para Dispositivos Móveis. O objetivo do projeto é mostrar as cotações de moedas e ações em tempo real, utilizando a API pública do HG Brasil.
 
-A new Flutter project.
+## Funcionalidades:
+- Exibe a cotação do Dólar e outras moedas estrangeiras.
 
-## Getting Started
+- Mostra a variação percentual das moedas e ações da Bolsa de Valores.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Permite atualizar as cotações com um simples toque no ícone de atualização.
